@@ -10,6 +10,8 @@ public class GitPracticeApplication {
 		SpringApplication.run(GitPracticeApplication.class, args);
 		
 		System.out.println("master: line1 added");
+		
+		System.out.println("master: line2 added");
 	}
 
 }
