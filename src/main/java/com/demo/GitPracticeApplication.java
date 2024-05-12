@@ -16,6 +16,8 @@ public class GitPracticeApplication {
 		System.out.println("feature: line3 added");
 		
 		System.out.println("feature: line4 added");
+		
+		System.out.println("master: line 5 added");
 	}
 
 }
