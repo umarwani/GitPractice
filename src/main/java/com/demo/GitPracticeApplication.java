@@ -18,5 +18,8 @@ public class GitPracticeApplication {
 		System.out.println("feature: line2 added");
 		
 	}
+	public void masterMethod(){
+		
+	}
 
 }
