@@ -18,5 +18,9 @@ public class GitPracticeApplication {
 		System.out.println("feature: line2 added");
 		
 	}
+	
+	void featureMethod() {
+		
+	}
 
 }
