@@ -46,15 +46,5 @@ public class GitPracticeApplication {
 		System.out.println("master conflict line added");
 	}
 	
-	public void testMethod() {
-		
-		System.out.println("Feature Test: line 1 added");
-		
-		System.out.println("Feature test: line 2 added");
-		
-		System.out.println("feature  test: line 3 added");
-		
-		System.out.println("feature test: line 4 added");
-	}
-
+	
 }
