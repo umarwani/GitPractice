@@ -42,6 +42,8 @@ public class GitPracticeApplication {
 		System.out.println("feature: line1 added");
 		
 		System.out.println("feature: line2 added");
+		
+		System.out.println("master conflict line added");
 	}
 
 }
