@@ -46,5 +46,5 @@ public class GitPracticeApplication {
 		System.out.println("master conflict line added");
 	}
 	
-	
+	public void test1methd() {}
 }
