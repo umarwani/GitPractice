@@ -53,6 +53,8 @@ public class GitPracticeApplication {
 		System.out.println("Feature test: line 2 added");
 		
 		System.out.println("feature  test: line 3 added");
+		
+		System.out.println("feature test: line 4 added");
 	}
 
 }
