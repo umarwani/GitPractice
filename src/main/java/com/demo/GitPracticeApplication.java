@@ -49,6 +49,8 @@ public class GitPracticeApplication {
 	public void testMethod() {
 		
 		System.out.println("Feature Test: line 1 added");
+		
+		System.out.println("Feature test: line 2 added");
 	}
 
 }
