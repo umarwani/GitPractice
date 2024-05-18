@@ -11,6 +11,8 @@ public class GitPracticeApplication {
 		
 		System.out.println("master: line added");
 		
+		System.out.println("line2 added..");
+		
 	}
 	
 }
