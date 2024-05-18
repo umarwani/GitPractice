@@ -9,11 +9,7 @@ public class GitPracticeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitPracticeApplication.class, args);
 		
-		System.out.println("master: line added");
-		
-		System.out.println("line2 added..");
-		
-		System.out.println("line-3 added...." );
+
 		
 	}
 	
