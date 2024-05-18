@@ -8,6 +8,8 @@ public class GitPracticeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitPracticeApplication.class, args);
+		
+		System.out.println("...line 1 added by master");
 	}
 	
 }
